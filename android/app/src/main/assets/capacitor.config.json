@@ -1,0 +1,8 @@
+{
+	"appId": "in.olireader.tamilbookreader",
+	"appName": "Oli Tamil Book Reader",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
